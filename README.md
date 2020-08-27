@@ -6,6 +6,7 @@ Research Interest:
 - Deep learning
 - Cryptography 
 - Probability Theory
+- Algorithm Analysis
 
 Programming Skill:
 - Python
