@@ -1,4 +1,4 @@
-Hi My name is kiki i'm an AI Researcher, i'm currently working on deep learning based computer vision for resource restricted device (e.g Android phone, Nvidia Jetson Nano, Google Coral, Raspberry Pi).
+Hi My name is kiki i'm an Programmer/Software Engineer and AI Researcher, i'm currently working on deep learning based computer vision for resource restricted device (e.g Android phone, Nvidia Jetson Nano, Google Coral, Raspberry Pi).
 
 Research Interest:
 - Reinforcement Learning
